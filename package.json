@@ -6,8 +6,8 @@
         "npm": "1.1.x"
      },
      "dependencies": {
-        "express": "3.x",
-        "uinexpress": "*"
+        "express": "3.2.5",
+        "uinexpress": "1.4.4"
      },
      "main": "app.js"
 }
